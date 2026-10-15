@@ -1,4 +1,0 @@
-this folder contains the CAD of the ENSI robot 
-everything is probably selfexplanatory 
-
-thank you for your attention to this file !!!
